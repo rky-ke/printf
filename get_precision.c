@@ -1,3 +1,23 @@
+get_precision.c
+Who has access
+O
+System properties
+Type
+C
+Size
+729 bytes
+Storage used
+729 bytes
+Location
+printf
+Owner
+Ojo Samuel
+Modified
+Oct 19, 2022 by Ojo Samuel
+Created
+Oct 19, 2022
+No description
+Viewers can download
 #include "main.h"
 
 /**
